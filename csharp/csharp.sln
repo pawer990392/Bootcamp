@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bases", "bases\bases.csproj", "{30C81D77-6CBB-4CE7-AA77-E477324EEB0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientadoObjetos", "OrientadoObjetos\OrientadoObjetos.csproj", "{C0D86F9C-17F2-448E-ACEA-12595989F0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C81D77-6CBB-4CE7-AA77-E477324EEB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C81D77-6CBB-4CE7-AA77-E477324EEB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C81D77-6CBB-4CE7-AA77-E477324EEB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C81D77-6CBB-4CE7-AA77-E477324EEB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D86F9C-17F2-448E-ACEA-12595989F0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D86F9C-17F2-448E-ACEA-12595989F0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D86F9C-17F2-448E-ACEA-12595989F0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D86F9C-17F2-448E-ACEA-12595989F0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

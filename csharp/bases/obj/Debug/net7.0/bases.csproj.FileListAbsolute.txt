@@ -1,0 +1,15 @@
+C:\repos\Bootcamp\csharp\bases\bin\Debug\net7.0\bases.exe
+C:\repos\Bootcamp\csharp\bases\bin\Debug\net7.0\bases.deps.json
+C:\repos\Bootcamp\csharp\bases\bin\Debug\net7.0\bases.runtimeconfig.json
+C:\repos\Bootcamp\csharp\bases\bin\Debug\net7.0\bases.dll
+C:\repos\Bootcamp\csharp\bases\bin\Debug\net7.0\bases.pdb
+C:\repos\Bootcamp\csharp\bases\obj\Debug\net7.0\bases.csproj.AssemblyReference.cache
+C:\repos\Bootcamp\csharp\bases\obj\Debug\net7.0\bases.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Bootcamp\csharp\bases\obj\Debug\net7.0\bases.AssemblyInfoInputs.cache
+C:\repos\Bootcamp\csharp\bases\obj\Debug\net7.0\bases.AssemblyInfo.cs
+C:\repos\Bootcamp\csharp\bases\obj\Debug\net7.0\bases.csproj.CoreCompileInputs.cache
+C:\repos\Bootcamp\csharp\bases\obj\Debug\net7.0\bases.dll
+C:\repos\Bootcamp\csharp\bases\obj\Debug\net7.0\refint\bases.dll
+C:\repos\Bootcamp\csharp\bases\obj\Debug\net7.0\bases.pdb
+C:\repos\Bootcamp\csharp\bases\obj\Debug\net7.0\bases.genruntimeconfig.cache
+C:\repos\Bootcamp\csharp\bases\obj\Debug\net7.0\ref\bases.dll

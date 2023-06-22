@@ -1,0 +1,11 @@
+<!--Interpolacin-->
+
+<div class="container">
+    {{buscar}}
+    <div class="row justify-content-center">
+
+        <div class="col-8 p-3">
+            <input type="text" class="form-control text-primary" placeholder="Buscador de Stiker" name="buscar" [(ngModel)]="buscar" (keyup.enter)="busqueda()">
+        </div>
+    </div>
+</div>
